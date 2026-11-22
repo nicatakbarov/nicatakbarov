@@ -26,4 +26,4 @@ Most of my product code lives in private repositories.
 
 ### Links
 
-[Portfolio](https://nijat-akbarov.vercel.app) · [LinkedIn](https://www.linkedin.com/in/nijat-akbarov) · [CV (PDF)](https://nijat-akbarov.vercel.app/Nijat_Akbarov_CV.pdf)
+[Portfolio](https://nijatakbarov.com) · [LinkedIn](https://www.linkedin.com/in/nijat-akbarov) · [CV (PDF)](https://nijatakbarov.com/Nijat_Akbarov_CV.pdf)
